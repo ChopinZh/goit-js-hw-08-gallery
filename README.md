@@ -1,1 +1,1 @@
-# goit-js-hw-08-gallery
+This is the module 8 homework
